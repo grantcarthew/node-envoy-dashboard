@@ -119,7 +119,7 @@ export default {
 <style>
 .stats-box {
   height: 40vh;
-  background-color: teal;
+  background-color: darkgreen;
   display: flex;
   flex-direction: column;
   justify-content: space-around;
